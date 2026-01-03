@@ -1,2 +1,2 @@
-# beegrove
+# Bičių vienkiemis
 Beehive monitoring project.
