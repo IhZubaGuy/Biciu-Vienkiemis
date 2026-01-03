@@ -1,2 +1,2 @@
 # Bičių vienkiemis
-Beehive monitoring project.
+Hello, I'm making a beehive monitoring system.
